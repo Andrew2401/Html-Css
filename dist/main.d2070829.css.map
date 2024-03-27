@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"main.d2070829.css","sourceRoot":"../src","sourcesContent":["body{\n    margin: 0;\n    padding: 0;\n    background:-o-linear-gradient(120deg,#2980b6,#8e44ad);\n}"]}
